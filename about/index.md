@@ -25,7 +25,7 @@ For the program language and software, I am familiar with:
 - SAS
 - MATLAB
 - SQL
-- La
+- Latex
 
 Data scientist is my dream job because you can find a lot of interesting things
 and help others through data and model.
