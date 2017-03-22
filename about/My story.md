@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "About Sarayear"
-description: ""
-tags: []
+layout: page
+title: About Sarayear
+image:
+  feature: self2.jpg
+  #credit: dargadgetz
+  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+comments: false
+modified: 2017-03-22
 ---
 
 ### My Education History
@@ -30,6 +34,6 @@ and help others through data and model.
 Now, I am a data analyst at [Center for Educational Effectiveness](http://cee.ucdavis.edu/) of our school.
 Our mission is to help the students get a better learning experience and maximize the
 instructional effectiveness. My biggest interest is social science data analysis.
-I am also interested in marketing and biostatistics. 
+I am also interested in marketing and biostatistics.
 In my free time, I love singing, Zumba and Guzheng, a traditional Chinese instrument.
 Singing is a really good way to release myself.
