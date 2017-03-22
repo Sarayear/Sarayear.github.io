@@ -2,7 +2,7 @@
 layout: post
 title:  "About me."
 date:   2017-03-21 22:00:04 -0700
-categories: myself
+categories: About
 ---
 
 ### My Education History
