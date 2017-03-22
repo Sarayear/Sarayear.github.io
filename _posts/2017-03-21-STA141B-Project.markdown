@@ -8,9 +8,9 @@ categories: Project
 ## STA141B Project: CyberCoders Job Postings: DS VS SDE
 
 <p>&nbsp;&nbsp;In our project, we get the information of 109 Data Scientist and 200 Software Engineer job postings on
-[CyberCoders] through web scraping, which includes the job title, id, description,
+[CyberCoders] <a href="https://www.cybercoders.com/">CyberCoders</a>through web scraping, which includes the job title, id, description,
 post data, salary range, preferred skills, city, and state. We compare the salary of DS and SDE, also including the
 comparison among different part of US. What is more, we find the need of years of experience through regular expression,
 the most important skills through NLP techniques. The degree required for the job and the posting dates are also
-topics we are interested in. If you want to know more, [please click here].
+topics we are interested in. If you want to know more, [please click here]<a href="https://xinyihou.github.io/IndeedProject/">please click here</a>.
 </p>
