@@ -3,8 +3,8 @@ layout: page
 title: About Sarayear
 image:
   feature: self2.jpg
-  #credit: dargadgetz
-  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+###credit: dargadgetz
+###creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
 modified: 2017-03-22
 ---
