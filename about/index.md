@@ -27,13 +27,7 @@ For the program language and software, I am familiar with:
 - SQL
 - Latex
 
-Data scientist is my dream job because you can find a lot of interesting things
-and help others through data and model.
+
 
 ### My Interests
-Now, I am a data analyst at [Center for Educational Effectiveness](http://cee.ucdavis.edu/) of our school.
-Our mission is to help the students get a better learning experience and maximize the
-instructional effectiveness. My biggest interest is social science data analysis.
-I am also interested in marketing and biostatistics.
-In my free time, I love singing, Zumba and Guzheng, a traditional Chinese instrument.
-Singing is a really good way to release myself.
+
