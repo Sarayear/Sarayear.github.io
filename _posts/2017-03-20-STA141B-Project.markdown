@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STA141B Project: CyberCoders Job Postings"
-author: Shengjie Shi, Xinyi Hou, Yingxi Yu, Hongyu Guo
+description: Shengjie Shi, Xinyi Hou, Yingxi Yu, Hongyu Guo
 date:   2017-03-20 22:00:04 -0700
 categories: Project
 image:
