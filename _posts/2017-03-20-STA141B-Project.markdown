@@ -239,7 +239,7 @@ print len(sde2)
     157
 
 
-<p> There are 200 job posts of software development engineers in the website and just 157 posts with a positive salary range.
+<p> There are 200 job posts of software development engineers in the website and just 157 posts with a positive salary range.</p>
 
 
 ```python
@@ -360,7 +360,8 @@ dssde.head()
 
 
 
-<p> We use the same method on SDE that we apply into the data scientist. Then the above dataframe is the combination of the data scientist and SDE.</p>
+<p> 
+the same method on SDE that we apply into the data scientist. Then the above dataframe is the combination of the data scientist and SDE.</p>
 
 
 ```python
@@ -376,7 +377,7 @@ plt.show()
 ![png](/images/output_25_0.png)
 
 
-The above plot shows the distribution of salary between data scientist and SDE. Actually, the  salary median of SDE is higher than data scientist. 
+<p>The above plot shows the distribution of salary between data scientist and SDE. Actually, the  salary median of SDE is higher than data scientist. </p>
 
 
 ```python
@@ -434,7 +435,7 @@ print mod2.summary()
 
 ### Experience
 
-<p>We want to know how many of the job postings specify the exact number of years of experience. We use regular expression to get this kind of info.<p>
+<p>We want to know how many of the job postings specify the exact number of years of experience. We use regular expression to get this kind of info.</p>
 
 
 
@@ -534,7 +535,7 @@ for n, i in enumerate(skill):
         skill[n] = 'R+++'
 ```
 
-Here are all the results of filted preferred skills. 
+<p>Here are all the results of filted preferred skills. </p>
 
 
 ```python
@@ -550,9 +551,9 @@ plt.show()
 
 <img src="/images/output_42_0.png" width="700px">
 
-The above picture is data sciencetist wordcloud. There is a bug here for the wordcloud. Compared with the bar plot we generate for the preferred skill, we can see the skill **"R"** is one of the three preferred skills. But we cannot find **"R"** in the wordcloud picture. This problem also shown in the later SDE analysis. We guess the reason is that the algorithm of the wordcloud will igonre the single letter, such as **"R","C","C++"**.
+<p>The above picture is data sciencetist wordcloud. There is a bug here for the wordcloud. Compared with the bar plot we generate for the preferred skill, we can see the skill **"R"** is one of the three preferred skills. But we cannot find **"R"** in the wordcloud picture. This problem also shown in the later SDE analysis. We guess the reason is that the algorithm of the wordcloud will igonre the single letter, such as **"R","C","C++"**.</p>
 
-Since we have the **"need for the position"** column in the dataset. We wonder the difference between the **"need for the position"** and **preferred skill**.
+<p>Since we have the **"need for the position"** column in the dataset. We wonder the difference between the **"need for the position"** and **preferred skill**.</p>
 
 
 ```python
@@ -584,7 +585,7 @@ len([i for i in ds_needForPosition_list_lower if 'experi' in i]) / float(len(ds_
 
 
 
-Almost 86% of the job posts required the applicants have the previous related experience in the industry.
+<p>Almost 86% of the job posts required the applicants have the previous related experience in the industry.</p>
 
 #### What about software development engineer
 
@@ -671,7 +672,7 @@ plt.show()
 ![png](/images/output_53_1.png)
 
 
-The pie chart denotes that **Statistics, Math, Computer Science** are top three popular degrees that companies are welcome to hire no matter in the Data Science or SDE. 
+<p>The pie chart denotes that **Statistics, Math, Computer Science** are top three popular degrees that companies are welcome to hire no matter in the Data Science or SDE. </p>
 
 
 ```python
@@ -693,8 +694,8 @@ np.array([sum((k in i) for k in ['Master', 'MS','M.S']) for i in sde['need_for_p
 
 
 
-Also, there are 33 job posts specificly denoted that they like or preferred the master degree.  
+<p>Also, there are 33 job posts specificly denoted that they like or preferred the master degree.  </p>
 
-In conclusion, according to the Cybercoder data, we get the most of employment information of Data Scientist and Software Develpment Engineer. Even though the current salary median of DS is lower than SDE, DS is a real potential job position for our statistic major students. Equited with some program languages like **"Python", "C"** and our professional statistical analysis experience, we believe that we can be really competitve in the job market. 
+<p>In conclusion, according to the Cybercoder data, we get the most of employment information of Data Scientist and Software Develpment Engineer. Even though the current salary median of DS is lower than SDE, DS is a real potential job position for our statistic major students. Equited with some program languages like **"Python", "C"** and our professional statistical analysis experience, we believe that we can be really competitve in the job market. </p>
 
 
