@@ -11,7 +11,7 @@ categories: About
 
 ### My Data Science Skill
 
-<p>I have taken a bunch of courses about statistics theory and methods at UC Davis, such as regression, mixed model, ANOVA, categorical data analysis, time series analysis, statistical computing, machine learning and so on. For the program language and software, I am familiar with:
+<p>I have taken a bunch of courses about statistics theory and methods at UC Davis, such as regression, mixed model, ANOVA, categorical data analysis, time series analysis, statistical computing, machine learning and so on. For the program language and software, I am familiar with:</p>
 
 - R
 - Python
@@ -19,7 +19,7 @@ categories: About
 - MATLAB
 - SQL
 - Latex
-</p>
+
 
 
 ### My Interests
