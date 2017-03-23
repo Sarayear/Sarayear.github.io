@@ -4,7 +4,7 @@ title:  "STA141B Project: CyberCoders Job Postings"
 date:   2017-03-21 22:00:04 -0700
 categories: Project
 image:
-  feature: Data-Science-Education-at-Monash-Monash-University.jpg
+  feature: testimonial-background.jpg
 ---
 
 What are the most popular jobs in silicaon valley? The answer is absolutely data scientist and software engineer. Want to learn more detials about these two fantastic jobs? Come with me!!<!--more-->
