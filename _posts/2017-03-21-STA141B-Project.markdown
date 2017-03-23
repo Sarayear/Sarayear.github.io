@@ -116,7 +116,7 @@ plt.show()
 ```
 
 
-![png](/projects/cybercoders/output_8_0.png)
+![png](/images/output_8_0.png)
 
 
 <p>The oldest job is posted on 12/14/2016, 80 days ago. However, most jobs are posted in recent 10 days.</p>
@@ -200,7 +200,7 @@ plt.show()
 ```
 
 
-![png](/projects/cybercoders/output_17_0.png)
+![png](/images/output_17_0.png)
 
 
 The above box plot shows that the west coast has the highest salary median among the whole state. The result makes sense since California have the Silicon Valley which aggregates a crowd of the most professional data scientist compared with other place. Also, we fit the linear regression model for the salary median and the states. 
@@ -373,7 +373,7 @@ plt.show()
 ```
 
 
-![png](/projects/cybercoders/output_25_0.png)
+![png](/images/output_25_0.png)
 
 
 The above plot shows the distribution of salary between data scientist and SDE. Actually, the  salary median of SDE is higher than data scientist. 
@@ -394,7 +394,7 @@ print mod2.summary()
 ```
 
 
-![png](/projects/cybercoders/output_27_0.png)
+![png](/images/output_27_0.png)
 
 
                     sum_sq     df          F        PR(>F)
@@ -480,7 +480,7 @@ plt.show()
 ```
 
 
-![png](/projects/cybercoders/output_33_0.png)
+![png](/images/output_33_0.png)
 
 
 <p> From the pie plot, we know that most of the job required 3 years experience before you apply for the job. This also denotes that the hard situation of finding the job in today's IT related job market. </p>
@@ -506,7 +506,7 @@ nltk.FreqDist(ds_filtered_skill).plot(30)
 ```
 
 
-![png](/projects/cybercoders/output_37_0.png)
+![png](/images/output_37_0.png)
 
 
 <p> From the above plot, we can see that the Python was the top one among the preferred skills, which means that STA 141 is a really useful class for us entering into the job market.</p>
@@ -522,7 +522,7 @@ plt.show()
 ```
 
 
-![png](/projects/cybercoders/output_39_0.png)
+![png](/images/output_39_0.png)
 
 
 
@@ -548,7 +548,7 @@ plt.show()
 ```
 
 
-<img src="/projects/cybercoders/output_42_0.png" width="700px">
+<img src="/images/output_42_0.png" width="700px">
 
 The above picture is data sciencetist wordcloud. There is a bug here for the wordcloud. Compared with the bar plot we generate for the preferred skill, we can see the skill **"R"** is one of the three preferred skills. But we cannot find **"R"** in the wordcloud picture. This problem also shown in the later SDE analysis. We guess the reason is that the algorithm of the wordcloud will igonre the single letter, such as **"R","C","C++"**.
 
@@ -566,7 +566,7 @@ nltk.FreqDist(ds_filtered_needForPosition).plot(30)
 
 
 
-![png](/projects/cybercoders/output_45_1.png)
+![png](/images/output_45_1.png)
 
 
 
@@ -597,7 +597,7 @@ nltk.FreqDist(sde_filtered_skill).plot(30)
 ```
 
 
-![png](/projects/cybercoders/output_49_0.png)
+![png](/images/output_49_0.png)
 
 
 
@@ -611,7 +611,7 @@ plt.show()
 ```
 
 
-![png](/projects/cybercoders/output_50_0.png)
+![png](/images/output_50_0.png)
 
 
 
@@ -624,7 +624,7 @@ plt.show()
 ```
 
 
-<img src="/projects/cybercoders/output_51_0.png" width="700px">
+<img src="/images/output_51_0.png" width="700px">
 
 ### Degree
 
@@ -668,7 +668,7 @@ plt.show()
 
 
 
-![png](/projects/cybercoders/output_53_1.png)
+![png](/images/output_53_1.png)
 
 
 The pie chart denotes that **Statistics, Math, Computer Science** are top three popular degrees that companies are welcome to hire no matter in the Data Science or SDE. 
