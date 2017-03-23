@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RTG: Solar Irradiance Covariance Model
+title: RTG---Solar Irradiance Covariance Model
 description: Shengjie Shi
 date:   2017-01-20 22:00:04 -0700
 categories: Project
